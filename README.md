@@ -1,2 +1,2 @@
-# StudyExpress
-GETIT Study Express
+# StudyGetit
+GETIT Study
